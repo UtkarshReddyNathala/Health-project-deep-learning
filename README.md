@@ -288,7 +288,7 @@ This project demonstrates:
 * Deployment experience
 * Professional-grade UI
 
-A perfect portfolio project for **Machine Learning**, **AI Engineering**, and **Healthcare AI** roles.
+A perfect portfolio project for **Machine Learning**, **AI Engineering**, and **Healthcare AI** roles,
 
 ---
 
